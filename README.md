@@ -89,10 +89,10 @@ Mobile Development    █████████████░░░░░░�
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Mikee-12/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Mikee-12&show_icons=true&hide_border=true&theme=transparent" alt="Mikee's GitHub stats" height="150" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Mikee-12/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikee-12&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" height="150" />
   </a>
 </p>
