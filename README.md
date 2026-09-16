@@ -89,8 +89,12 @@ Mobile Development    █████████████░░░░░░�
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mikee-12&show_icons=true&hide_border=true&theme=transparent" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikee-12&layout=compact&hide_border=true&theme=transparent" height="170">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mikee-12&show_icons=true&hide_border=true&theme=transparent" alt="Mikee's GitHub stats" height="150" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikee-12&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" height="150" />
+  </a>
 </p>
 
 ---
@@ -100,7 +104,7 @@ Mobile Development    █████████████░░░░░░�
 <p>
   <a href="https://github.com/Mikee-12">GitHub</a>
   ·
-  <a href="\https://www.instagram.com/aftr_2am//">Instagram</a>
+  <a href="https://www.instagram.com/aftr_2am/">Instagram</a>
 </p>
 
 ---
